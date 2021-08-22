@@ -1,6 +1,5 @@
 ### Profile [00frank][website] 👋
 
-[![Website](https://img.shields.io/website?label=00frankgarcia.site&style=for-the-badge&url=http://00frankgarcia.site)](http://00frankgarcia.site)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-garcia--frank-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/garcia-frank/)
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm a enthusiastic web developer
