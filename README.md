@@ -5,14 +5,14 @@
 <p>
   <em>
     Software Enginner at <a href="https://www.alegra.com/">Alegra</a>
-    <kbd style="margin-left: 4px; border-radius: 50%; padding: 0"><img
-      style="width: 18px; height: 18px; border-radius: 50%"
-      src="https://yt3.googleusercontent.com/ylWHtHysYhtbdjVb9vAM4OQyEU7n3LXnFcYcHyH1yw_hZPtx1YhECYIkdCvX7PuKP84uoXg78A=s900-c-k-c0x00ffffff-no-rj" /></kbd>
+    <img
+      style="margin-left: 4px; width: 18px; height: 18px"
+      src="https://i.imgur.com/K43caTt.jpeg" />
     </br>
     Currently studing Computer Engineering at <a href="https://ucema.edu.ar/">UCEMA</a>
-    <kbd style="margin-left: 4px; background-color: #fff; padding: 1px"><img
-      style="width: 38px"
-      src="https://d9hhrg4mnvzow.cloudfront.net/get.ucema.edu.ar/nivelacion-matematicas/d1456132-logo-bordo.svg"/></kbd>
+    <img
+      style="margin-left: 4px; width: 38px"
+      src="https://i.imgur.com/KqAxuoh.jpeg"/>
   </em>
 </p>
 
