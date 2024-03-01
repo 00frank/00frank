@@ -5,13 +5,15 @@
 <p>
   <em>
     Software Enginner at <a href="https://www.alegra.com/">Alegra</a>
+    &hairsp;
     <img
-      style="margin-left: 4px; width: 18px; height: 18px"
+      style="width: 18px; height: 18px"
       src="https://i.imgur.com/K43caTt.jpeg" />
     </br>
     Currently studing Computer Engineering at <a href="https://ucema.edu.ar/">UCEMA</a>
+    &hairsp;
     <img
-      style="margin-left: 4px; width: 38px"
+      style="width: 38px"
       src="https://i.imgur.com/KqAxuoh.jpeg"/>
   </em>
 </p>
