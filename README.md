@@ -5,18 +5,18 @@
 <p>
   <em>
     Software Enginner at <a href="https://www.alegra.com/">Alegra</a>
-    <img
-      style="margin-left: 4px; width: 18px; height: 18px; border-radius: 50%"
-      src="https://yt3.googleusercontent.com/ylWHtHysYhtbdjVb9vAM4OQyEU7n3LXnFcYcHyH1yw_hZPtx1YhECYIkdCvX7PuKP84uoXg78A=s900-c-k-c0x00ffffff-no-rj" />
+    <kbd style="margin-left: 4px; border-radius: 50%; padding: 0"><img
+      style="width: 18px; height: 18px; border-radius: 50%"
+      src="https://yt3.googleusercontent.com/ylWHtHysYhtbdjVb9vAM4OQyEU7n3LXnFcYcHyH1yw_hZPtx1YhECYIkdCvX7PuKP84uoXg78A=s900-c-k-c0x00ffffff-no-rj" /></kbd>
     </br>
     Currently studing Computer Engineering at <a href="https://ucema.edu.ar/">UCEMA</a>
-    <img
-      style="margin-left: 4px; width: 38px; background-color: #fff"
-      src="https://d9hhrg4mnvzow.cloudfront.net/get.ucema.edu.ar/nivelacion-matematicas/d1456132-logo-bordo.svg"> 
+    <kbd style="margin-left: 4px; background-color: #fff; padding: 1px"><img
+      style="width: 38px"
+      src="https://d9hhrg4mnvzow.cloudfront.net/get.ucema.edu.ar/nivelacion-matematicas/d1456132-logo-bordo.svg"/></kbd>
   </em>
 </p>
 
-[![Twitter: misterfgarcia](https://img.shields.io/badge/follow_me_-000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/garcia-frank/)
+[![Twitter: misterfgarcia](https://img.shields.io/badge/follow_me_-000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/misterfgarcia)
 [![GitHub 00frank](https://img.shields.io/badge/github-161B22.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/00frank)
 [![Linkedin: Frank Garcia](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garcia-frank/)
 
