@@ -4,12 +4,7 @@
 
 <p>
   <em>
-    Software Enginner at <a href="https://hopenvios.com.ar">HOP</a>
-    &hairsp;
-    <img
-      style="width: 18px; height: 18px"
-      src="https://tuquejasuma.com/media/cache/62/b3/62b3a7c1c69878cb0e55c69f4cecbefa.png" />
-    </br>
+    Software Enginner </br>
     Currently studing Computer Engineering at <a href="https://ucema.edu.ar/">UCEMA</a>
     &hairsp;
     <img
